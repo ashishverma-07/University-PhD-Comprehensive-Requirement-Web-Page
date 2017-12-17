@@ -1,0 +1,41 @@
+
+
+thead {
+    background-color: lightgray;
+    
+}
+thead tr {
+    font-size: 16px;
+}
+
+#info{
+    font-size: 16px;
+    padding: 20px;
+
+}
+
+
+.tableBody p{
+    font-size: 20px;
+}
+
+#finalGPA {
+    font-size: 18px;
+       
+}
+
+#bn {
+    font-size: 12px;
+    
+}
+
+.dropdown-menu button {
+    width: 120px;
+    margin-top: 5px;
+    margin-left: 5px;
+    
+}
+
+#bn {
+    font-size: 15px;
+}
